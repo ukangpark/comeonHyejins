@@ -1,5 +1,2 @@
 bb
-cocoa
-coffee
-milk
-latte
+
